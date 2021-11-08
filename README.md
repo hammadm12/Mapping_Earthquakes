@@ -5,4 +5,4 @@ Basil and Sadhana appreciated how we created the earthquake maps with two maps a
 
 ![](Earthquake_Challenge/earthquakechallenge1.PNG)
 
-![](Earthquake_Challenge/dark_layer.PNG)
+![](Earthquake_Challenge/dark_layer.png)
