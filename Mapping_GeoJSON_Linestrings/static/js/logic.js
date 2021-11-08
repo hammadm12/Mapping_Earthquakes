@@ -83,7 +83,7 @@ L.control.layers(baseMaps).addTo(map);
 // streets.addTo(map);
 
 // Accessing the airport GeoJSON URL
-let torontoData = "https://raw.githubusercontent.com/neerajain9/Mapping_Earthquakes/Data-Science/torontoRoutes.json";
+let torontoData = "https://raw.githubusercontent.com/hammadm12/Mapping_Earthquakes/Data-Science/torontoRoutes.json";
 
 // Create a style for the lines.
 let myStyle = {
